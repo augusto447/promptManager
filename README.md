@@ -44,7 +44,7 @@ prompt-manager/
 ### 1. Clonar o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/augusto447/promptManager.git
 ```
 
 ### 2. Entrar na pasta
@@ -70,9 +70,7 @@ Durante o desenvolvimento foram trabalhados conceitos como:
 * Utilização de MCP no contexto de ferramentas de Inteligência Artificial
 * Desenvolvimento de interfaces responsivas
 
-## 📸 Preview
 
-Adicione screenshots da aplicação nesta seção para apresentar o projeto visualmente.
 
 ## 👨‍💻 Autor
 
